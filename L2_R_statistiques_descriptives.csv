@@ -1,7 +1,7 @@
 ID;Nom;Prenom;Ville;Etat;Genre;Statut;Discipline;Pays;Age;Note;Taille;Heure_journal
-1;BERNARD;Léo;Los Angeles;California;Female;Graduate;Politics;US;30;67;154,94;5
-2;PETIT;Raphaël;Sedona;Arizona;Female;Undergraduate;Math;US;19;63;162,56;7
-3;THOMAS;Maël;Elmira;New York;Male;Graduate;Math;US;26;78,11328466;185,42;6
+1;BERNARD;Leo;Los Angeles;California;Female;Graduate;Politics;US;30;67;154,94;5
+2;PETIT;Raphael;Sedona;Arizona;Female;Undergraduate;Math;US;19;63;162,56;7
+3;THOMAS;Mael;Elmira;New York;Male;Graduate;Math;US;26;78,11328466;185,42;6
 4;MOREAU;Louis;Lackawana;New York;Male;Graduate;Econ;US;33;77,80858702;172,72;3
 5;DUBOIS;Noah;Defiance;Ohio;Male;Graduate;Econ;US;37;65;180,34;6
 6;RICHARD;Jules;Tel Aviv;Israel;Male;Graduate;Econ;Israel;25;69;170,18;5
@@ -24,7 +24,7 @@ ID;Nom;Prenom;Ville;Etat;Genre;Statut;Discipline;Pays;Age;Note;Taille;Heure_jour
 23;VINCENT;Noah;The X;Massachusetts ;Female;Graduate;Politics;US;25;89;172,72;6
 24;DUPONT;Alice;Beijing;China;Female;Undergraduate;Math;China;18;79;165,1;6
 25;GUERIN;William;Stockholm;Sweden;Male;Undergraduate;Politics;Sweden;19;88;162,56;4
-26;MERCIER;Léa;Embarrass;Minnesota;Male;Graduate;Econ;US;28;95,83554244;180,34;4
+26;MERCIER;Lea;Embarrass;Minnesota;Male;Graduate;Econ;US;28;95,83554244;180,34;4
 27;GARNIER;Thomas;Intercourse;Pennsylvania;Male;Undergraduate;Math;US;20;88;180,34;5
 28;HENRY;Sophia;Loco;Oklahoma;Female;Undergraduate;Econ;US;20;64;172,72;6
 29;LEFEVRE;Logan;Buenos Aires;Argentina;Male;Graduate;Politics;Argentina;30;85;182,88;3
